@@ -5,3 +5,5 @@ It is another way to play the game League of Legends where the program decides h
 
 It's my recreation in python of the original website version of this program: https://www.ultimate-bravery.net/
 It is not up to date with the actual version of the game.
+
+To run the program, download the code zip file and run the python file. 
